@@ -1,0 +1,30 @@
+.containers {
+    height: 89vh;
+    box-sizing: border-box;
+    padding: 40px 60px;
+}
+
+
+form{
+    margin-top:50px;
+}
+
+select{
+    margin-left: 20px;
+    width: 200px;
+    font-size: 19px;
+}
+.inputs{
+    display: flex;
+    align-items: center;
+    font-size: 19px;
+}
+button{
+    cursor: pointer;
+    border:none;
+    font-size: 15px;
+    padding: 10px 50px;
+    border-radius:10px;
+    background-color: orange;
+    margin-top: 70px;
+}

@@ -1,0 +1,33 @@
+.containers{
+    height: 89vh;
+    box-sizing: border-box;
+    padding: 100px;
+    width:100%;
+}
+.item{
+    display: flex;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.containers .item label{
+    width: 30%;
+}
+.containers .item p{
+    width:50%;
+}
+.containers .titles{
+    font-size: 30px;
+    padding-bottom:50px;
+}
+
+.button-rent{
+    margin-top:40px;
+}
+
+.button-rent a{
+    padding: 15px 60px;
+    background-color: orange;
+    color:black;
+    border-radius: 10px;
+}
+
